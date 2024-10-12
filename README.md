@@ -22,8 +22,8 @@ pip install mechanize
 pkg install git 
 pip install bs4
 git clone https://github.com/DARK-RA-cyber/ENC
-cd HACk.CC
-python cc.py
+cd ENC
+python ENC.py
 ```
 
 
