@@ -9,7 +9,7 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://github.com/DARK-RA-cyber/ENC/blob/main/Screenshot_2025-07-30-21-36-28-082_com.termux.jpg"></p>
+#<p align="center"><img src="https://github.com/DARK-RA-cyber/ENC/blob/main/Screenshot_2025-07-30-21-36-28-082_com.termux.jpg"></p>
 
 #### INSTALL TOOL ON TERMUX: ⬇️
 ```
@@ -30,7 +30,7 @@ python ENC.py
 
 
 #### SCREENSHOT: ⬇️
-![logo](https://github.com/DARK-RA-cyber/ENC/blob/main/Screenshot_2024-10-11-23-20-35-229_com.termux.jpg)
+![logo](https://github.com/DARK-RA-cyber/ENC/blob/main/Screenshot_2025-07-30-21-36-28-082_com.termux.jpg)
 
 <h3> follow me my Facebook page  Tool's Password</h3>
 <h5>id  Link➛ <a href="https://www.facebook.com/profile.php?id=61578165737556>Click Here</a></h5>
