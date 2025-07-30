@@ -9,8 +9,6 @@
 - No Root
 - No Termux Knowlegde
 
-#<p align="center"><img src="https://github.com/DARK-RA-cyber/ENC/blob/main/Screenshot_2025-07-30-21-36-28-082_com.termux.jpg"></p>
-
 #### INSTALL TOOL ON TERMUX: ⬇️
 ```
 termux-setup-storage
